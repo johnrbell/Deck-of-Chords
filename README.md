@@ -1,12 +1,12 @@
-# Music Tutor for Visually Impaired
+# Music Tutor for Visually Impaired Students
 
 ## Foundational To-Do: 
 
 ### App Name: 
 
 Flash Chords  
-	Deck of Chords  
-	Braille Scale  
+Deck of Chords  
+Braille Scale  
 Tact Tune
 
 ## Tooling:
